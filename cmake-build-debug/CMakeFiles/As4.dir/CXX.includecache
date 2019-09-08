@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As4/Instance.h
+string
+-
+vector
+-
+ostream
+-
+
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As4/Space.cpp
+Space.h
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As4/Space.h
+
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As4/Space.h
+vector
+-
+ostream
+-
+Instance.h
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As4/Instance.h
+
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As4/main.cpp
+iostream
+-
+Instance.h
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As4/Instance.h
+Space.h
+/home/tamir/Dropbox/University/4th Year/2nd Semester/ML/As4/Space.h
+
